@@ -1,5 +1,6 @@
 // ArduinoISP
 // Copyright (c) 2008-2011 Randall Bohn
+// (added 2018) just changed timing of SPI to recover slow clocked microcontrollers - james villeneuve
 // If you require a license, see
 // http://www.opensource.org/licenses/bsd-license.php
 //
